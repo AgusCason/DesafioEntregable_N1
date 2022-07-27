@@ -1,0 +1,15 @@
+html{scroll-behavior:smooth;font-family: 'PT Sans Narrow', sans-serif;}
+body{max-width: 100%;margin: 0;font-family: 'Roboto Condensed', sans-serif;background-color: #ffc44d}
+
+
+.titulo{padding: 10%;text-align: center;}
+.titulo h1{font-size: 350%;text-align: center;}
+.titulo h3{font-size: 260%;text-align: center;}
+.titulo p{font-size: 180%;margin-bottom: -1%;}
+
+
+
+
+
+.site-footer{color: #ffc44d;background-color: black;text-align: center;font-weight: 500;margin-bottom: -2%;}
+.site-footer p{padding: 2%;}
